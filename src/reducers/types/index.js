@@ -1,0 +1,9 @@
+export const GETPRODUCTS = 'GETPRODUCTS'
+export const CREATEPRODUCTS = 'CREATEPRODUCTS'
+export const DELETEPOST = 'DELETEPOST'
+export const UPDATEPRODUCT = 'UPDATEPRODUCT'
+export const GETPRODUCT = 'GETPRODUCT'
+export const GETPRODUCTBYID = 'GETPRODUCTBYID'
+
+export const AUTH = 'AUTH'
+export const LOGOUT = 'LOGOUT'
